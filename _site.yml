@@ -1,0 +1,12 @@
+name: "Clase10"
+title: "Clase10"
+description: |
+  Clase con el TuQmano 
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Inicio"
+      href: index.html
+    - text: "Sobre esta clase"
+      href: about.html
+output: distill::distill_article
