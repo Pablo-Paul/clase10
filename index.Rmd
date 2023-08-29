@@ -1,0 +1,22 @@
+---
+title: "Clase10"
+description: |
+ Bienvenido a las clases!
+ Esta es la última, a ver si sale =)
+site: distill::distill_website
+---
+
+Hola! Este es el sitio web de Pablo, el first 
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
